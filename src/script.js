@@ -2,7 +2,7 @@ import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
 import { Timer } from 'three/examples/jsm/misc/Timer.js'
 import GUI from 'lil-gui'
-import {Sky} from "three/examples/jsm/objects/sky.js"
+// import {Sky} from "three/examples/jsm/objects/sky.js"
 
 /**
  * Base
